@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://discord.gg/milrato",
+      "domain": "https://Tada.phnam181102.repl.co"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://Tada.phnam181102.repl.co/callback",
+        "clientID": "897809114183381045",
+        "secret": ""
+    }
+  }
